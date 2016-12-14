@@ -1,0 +1,12 @@
+{
+    "name": "./captcha",
+    "description": "captcha secured",
+    "license": "esgi ecole superieure de genie informatique",
+    "authors": [
+        {
+            "name": "younesdiouri",
+            "email": "younesdiouri@gmail.com"
+        }
+    ],
+    "require": {}
+}
